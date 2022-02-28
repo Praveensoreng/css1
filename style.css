@@ -1,0 +1,35 @@
+.red{
+    color:rgb(241, 9, 9);
+}
+.purple{
+    color:#a70c0c;
+}
+.yellow{
+    color:rgb(221, 14, 14);
+    font-weight: bolder;
+    background-color: yellow;
+    text-decoration: none;
+}
+.spacing{
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+.yellow1{
+    background-color: yellow;
+    font-weight: 900;
+}
+.line{
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+#line1{
+    text-decoration: underline;
+    
+}
+.bold{
+    color:#310611;
+    font-weight:lighter;
+}
+.lineh{
+    line-height: 45px;
+}
